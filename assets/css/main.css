@@ -2289,7 +2289,9 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
-		.fa-globe {top: -0.05em;position: relative;}
+		.fa-globe {
+			top: -0.05em !important;
+			position: relative !important;}
 
 /* List */
 
