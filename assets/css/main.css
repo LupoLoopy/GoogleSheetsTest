@@ -2289,6 +2289,8 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+		.icon.logo.solid.fa-globe{padding-left: 1.25em;}
+
 /* List */
 
 	ol.default {
