@@ -2755,7 +2755,7 @@ input, select, textarea {
 			color: #ffffff;
 		}
    #header h1.fancy::nth-letter(10)	{
-		 font-size: 120%
+		 font-size: 120%;
 	 }
 
 		#header input[type="submit"],
